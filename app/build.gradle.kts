@@ -7,7 +7,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.appliberated.helloworldselfaware"
+        applicationId = "com.jeetdpatel.helloworldselfaware"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
