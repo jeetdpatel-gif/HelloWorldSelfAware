@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.appliberated.helloworldselfaware"
-        minSdk = 9
+        minSdk = 24
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
